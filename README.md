@@ -10,6 +10,8 @@ EPI Judge is meant to serve as a companion to our book Elements of Programming I
 - **Test-cases** that cover common corner-case and performance bugs
 - A **framework** for running these tests on your implementation on your machine
 
+  This repo features my python solutions to textbook problems.
+
 ## Installation
 
 Here's how to download the judge:
